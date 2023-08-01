@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "debug.javascript.defaultRuntimeExecutable": {
+        "pwa-node": "node"
+    }
+}
